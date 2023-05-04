@@ -8,7 +8,13 @@
 
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-
+  <p>
+        <strong>About:</strong>
+        <span>I'm Junior Business Data Analyst.</span>
+        <span>Student at the second year of CS (Faculty of Computers and Information Science) Minia University.</span>
+        <span>I'm Junior Financial Accountant.</span>
+        <span>My unique username at all social media platform is "MahmoudAqela".</span>
+    </p>
 
 - 🏢 I'm a junior Software Engineer 
 - 👨‍💻 i have graduated from FCI and joined ITI , As a CS student, I'm constantly learning and exploring   new technologies to improve my skills.
