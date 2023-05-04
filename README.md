@@ -10,7 +10,11 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://www.linkedin.com/MahmoudAqela" style="color: #ff9">
+    <img alt="Mahmoud Abdullah"/>
+   </a>
 </p> 
+
 
 - 🏢 I'm a junior Business Data Analyst.
 - 👨‍💻 Student at the second year of Faculty CS (Computers and Information Science) Minia University
