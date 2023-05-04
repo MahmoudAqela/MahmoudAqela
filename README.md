@@ -1,66 +1,41 @@
- <head>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
-</head>
-  <body>
-    
+### Hi there 👋
 
-    <h2 class="text-center">
-        Mahmoud Abdullah
-    </h2>
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-    <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj0tvhBBDpk3nsmC-nXwsARL5l0QJc4MBMouBIDgHuaLsoOZ01Wqq0UiqH_zSXYLc2UKCLTb7cZZPLyjR_ryRwX1o2lJrCOBkp6ulPybpxK6UqtxQW2oIUVZ1-xa4EUH_xDAsZCjnoDQTq7EKn8gpsF-OqIqf6iLA1DfycZTbp5-lSnXNZXhTSKdQ=s16000" width="90%" height="400px" style="margin: 0 auto; display: block;" alt="">
+<h3 align="center">
+  Welcome to Maged El-gndy profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-    <p>
-        <strong>About:</strong>
-        <span>I'm Junior Business Data Analyst.</span>
-        <span>Student at the second year of CS (Faculty of Computers and Information Science) Minia University.</span>
-        <span>I'm Junior Financial Accountant.</span>
-        <span>My unique username at all social media platform is "MahmoudAqela".</span>
-    </p>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
-    <p>
-        <strong>Social media:</strong>
-        <ul>
-            <li style="list-style: none; padding: 4px; margin-left: 8px;"><a href="https://www.facebook.com/MahmoudAqela" style="color: #fff; text-decoration: none;" target="_blank"><i class="bi bi-facebook" style="color: #1877f2;"></i> Facebook</a></li>
-            <li style="list-style: none; padding: 4px; margin-left: 8px;"><a href="https://twitter.com/MahmoudAqela" style="color: #fff; text-decoration: none;" target="_blank"><i class="bi bi-twitter" style="color: #1da1f2;"></i> Twitter</a></li>
-            <li style="list-style: none; padding: 4px; margin-left: 8px;"><a href="https://www.github.com/MahmoudAqela" style="color: #fff; text-decoration: none;" target="_blank"><i class="bi bi-github" style="color: #bd2c00;"></i> GitHub</a></li>
-            <li style="list-style: none; padding: 4px; margin-left: 8px;"><a href="https://www.linkedin.com/in/mahmoudaqela" style="color: #fff; text-decoration: none;" target="_blank"><i class="bi bi-linkedin" style="color: #0a66c2;"></i> LikedIN</a></li>
-        </ul>
-    </p>
-    
- </body>
+- 🏢 I'm a junior Software Engineer 
+- 👨‍💻 i have graduated from FCI and joined ITI , As a CS student, I'm constantly learning and exploring   new technologies to improve my skills.
+- 💬 Ask me about my experience with c++, c#, java, ASP.net, JavaScript, Angular, SQl or anything related to web development.
+- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
-    <style>
-        body{
-            background-color: #333;
-            box-sizing: border-box;
-            padding: 0;
-            margin: 0;
-        }
-        h2{
-            color: #fff;
-            margin: 20px auto;
-            padding: 8px 12px;
-            background-color: rgb(10, 9, 94);
-            width: fit-content;
-        }
-        .text-center {
-            text-align: center;
-        }
-        p {
-            margin-left: 25px;
-            color: #ddd;
-        }
-        strong {
-            font-size: 22px;
-            padding: 5px 10px;
-            margin: 10px 0px;
-            display: inline-block;
-            color: rgb(197, 218, 9);
-        }
-        span {
-            display: block;
-            margin-left: 45px;
-            margin-top: 5px;
-        }
-    </style>
+
+### Connect with Me :
+
+<a href="https://linkedin.com/in/maged-elgndy" target="_blank"><img src="https://img.shields.io/badge/-Maged%20Elgndy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+
+
+### 🛠 &nbsp;Tech Stack
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=339933)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Angular.js](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
+![ASP.net](https://img.shields.io/badge/-ASP.net-05122A?style=flat&logo=asp.net)&nbsp;
+![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+
+
