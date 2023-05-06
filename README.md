@@ -20,7 +20,7 @@
     
     - I'm Junior Financial Accountant.
     
-    - My unique username at all social media platform is "MahmoudAqela".
+    - My unique username at all social media platforms is "MahmoudAqela".
 
 
 ### Connect with Me :
