@@ -14,12 +14,10 @@
         <strong>About:</strong>
     </p>
     
-    - I'm Junior Business Data Analyst.
+    - I'm Junior Business Data Analyst, Full Stack Web Developer.
     
-    - Student at the second year of CS (Faculty of Computers and Information Science) Minia University.
-    
-    - I'm Junior Financial Accountant.
-    
+    - Student at the third year of CS (Faculty of Computers and Information Science) Minia University.
+        
     - My unique username at all social media platforms is "MahmoudAqela".
 
 
